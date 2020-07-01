@@ -1,4 +1,4 @@
-# npm
+# Why and when to use TypeScript
 
 | **Topic** | **Code** |
 |:---------:|:--------:|

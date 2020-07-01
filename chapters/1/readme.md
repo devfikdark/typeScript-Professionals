@@ -1,4 +1,4 @@
-# Getting started with Node.js
+# Getting started with TypeScript
 
 | **Topic** | **Code** |
 |:---------:|:--------:|

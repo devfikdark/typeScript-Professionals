@@ -4,7 +4,7 @@
 |:-------:|:-------:|
 | 1: Getting started with TypeScript | [Readme](/chapters/1/readme.md) |
 | 2: Why and when to use TypeScript | [Readme](/chapters/2/readme.md) |
-| 3: TypeScript Core Types | [Readme]() |
+| 3: TypeScript Core Types | [Readme](/chapters/3/readme.md) |
 | 4: Arrays | [Readme]() |
 | 5: Enums | [Readme]() |
 | 6: Functions | [Readme]() |
