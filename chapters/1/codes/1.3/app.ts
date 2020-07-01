@@ -9,5 +9,4 @@ class myContainer {
 };
 
 let createObj = new myContainer("Hi Morol!");
-console.log(createObj);
 console.log(createObj.getData());
