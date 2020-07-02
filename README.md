@@ -6,7 +6,7 @@
 | 2: Why and when to use TypeScript | [Readme](/chapters/2/readme.md) |
 | 3: TypeScript Core Types | [Readme](/chapters/3/readme.md) |
 | 4: Arrays | [Readme](/chapters/4/app.ts) |
-| 5: Enums | [Readme]() |
+| 5: Enums | [Readme](/chapters/5/readme.md) |
 | 6: Functions | [Readme]() |
 | 7: Classes | [Readme]() |
 | 8: Class Decorator | [Readme]() |
