@@ -1,34 +1,44 @@
 # TypeScript-NotesForProfessionals
 
-| Chapter | Details |
-|:-------:|:-------:|
-| 1: Getting started with TypeScript | [Readme](/chapters/1/readme.md) |
-| 2: Why and when to use TypeScript | [Readme](/chapters/2/readme.md) |
-| 3: TypeScript Core Types | [Readme](/chapters/3/readme.md) |
-| 4: Arrays | [Readme](/chapters/4/app.ts) |
-| 5: Enums | [Readme](/chapters/5/readme.md) |
-| 6: Functions | [Readme]() |
-| 7: Classes | [Readme]() |
-| 8: Class Decorator | [Readme]() |
-| 9: Interfaces | [Readme]() |
-| 10: Generics | [Readme]() |
-| 11: Strict null checks | [Readme]() |
-| 12: User-defined Type Guards | [Readme]() |
-| 13: TypeScript basic examples | [Readme]() |
-| 14: Importing external libraries | [Readme]() |
-| 15: Modules - exporting and importing | [Readme]() |
-| 16: Publish TypeScript definition files | [Readme]() |
-| 17: Using TypeScript with webpack | [Readme]() |
-| 18: Mixins | [Readme]() |
-| 19: How to use a JavaScript library without a type definition file | [Readme]() |
-| 20: TypeScript installing typescript and running the typescript compiler tsc | [Readme]() |
-| 21: Configure typescript project to compile all files in typescript. | [Readme]() |
-| 22: Integrating with Build Tools | [Readme]() |
-| 23: Using TypeScript with RequireJS | [Readme]() |
-| 24: TypeScript with AngularJS | [Readme]() |
-| 25: TypeScript with SystemJS | [Readme]() |
-| 26: Using TypeScript with React (JS & native) | [Readme]() |
-| 27: TSLint - assuring code quality and consistency | [Readme]() |
-| 28: tsconfig.json | [Readme]() |
-| 29: Debugging | [Readme]() |
-| 30: Unit Testing | [Readme]() |
+* Chapter 1: Getting started with TypeScript
+
+  - [Section 1.1: Installation and setup](/book_pages/chapter1/section1.1.md)
+  - [Section 1.2: Basic syntax](/book_pages/chapter1/section1.2.md)
+  - [Section 1.3: Hello World](/book_pages/chapter1/section1.3.md)
+  - [Section 1.4: Running TypeScript using ts-node](/book_pages/chapter1/section1.4.md)
+  - [Section 1.5: TypeScript REPL in Node.js](/book_pages/chapter1/section1.5.md)
+
+* Chapter 2: Why and when to use TypeScript
+
+  - [Section 2.1: Safety](/book_pages/chapter2/section2.1.md)
+  - [Section 2.2: Readability](/book_pages/chapter2/section2.2.md)
+  - [Section 2.3: Tooling](/book_pages/chapter2/section2.3.md)
+
+* <details>
+  <summary>Chapter 3: TypeScript Core Types</summary>
+
+  - [Section 3.1: String Literal Types](/book_pages/chapter3/section3.1.md)
+  - [Section 3.2: Tuple](/book_pages/chapter3/section3.2.md)
+  - [Section 3.3: Boolean](/book_pages/chapter3/section3.3.md)
+  - [Section 3.4: Intersection Types](/book_pages/chapter3/section3.4.md)
+  - [Section 3.5: Types in function arguments and return value Number](/book_pages/chapter3/section3.5.md)
+  - [Section 3.6: Types in function arguments and return value. String](/book_pages/chapter3/section3.6.md)
+  - [Section 3.7: const Enum](/book_pages/chapter3/section3.7.md)
+  - [Section 3.8: Number](/book_pages/chapter3/section3.8.md)
+  - [Section 3.9: String](/book_pages/chapter3/section3.9.md)
+  - [Section 3.10: Array](/book_pages/chapter3/section3.10.md)
+  - [Section 3.11: Enum](/book_pages/chapter3/section3.11.md)
+  - [Section 3.12: Any](/book_pages/chapter3/section3.12.md)
+  - [Section 3.13: Void](/book_pages/chapter3/section3.13.md)
+</details>
+
+* Chapter 4: Arrays
+
+  - [Section 4.1: Finding Object in Array](/book_pages/chapter4/section4.1.md)
+
+* Chapter 5: Enums
+
+  - [Section 5.1: Enums with explicit values](/book_pages/chapter5/section5.1.md)
+  - [Section 5.2: How to get all enum values](/book_pages/chapter5/section5.2.md)
+  - [Section 5.3: Extending enums without custom enum implementation](/book_pages/chapter5/section5.3.md)
+  - [Section 5.4: Custom enum implementation: extends for enums](/book_pages/chapter5/section5.4.md)
