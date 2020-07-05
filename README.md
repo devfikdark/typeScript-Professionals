@@ -42,3 +42,11 @@
   - [Section 5.2: How to get all enum values](/book_pages/chapter5/section5.2.md)
   - [Section 5.3: Extending enums without custom enum implementation](/book_pages/chapter5/section5.3.md)
   - [Section 5.4: Custom enum implementation: extends for enums](/book_pages/chapter5/section5.4.md)
+
+* Chapter 6: Functions
+
+  - [Section 6.1: Optional and Default Parameters](/book_pages/chapter6/section6.1.md)
+  - [Section 6.2: Function as a parameter](/book_pages/chapter6/section6.2.md)
+  - [Section 6.3: Functions with Union Types](/book_pages/chapter6/section6.3.md)
+  - [Section 6.4: Types of Functions](/book_pages/chapter6/section6.4.md)
+  
