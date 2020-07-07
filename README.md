@@ -50,3 +50,13 @@
   - [Section 6.3: Functions with Union Types](/book_pages/chapter6/section6.3.md)
   - [Section 6.4: Types of Functions](/book_pages/chapter6/section6.4.md)
   
+* Chapter 7: Classes
+
+  - [Section 7.1: Abstract Classes](/book_pages/chapter7/section7.1.md)
+  - [Section 7.2: Simple class](/book_pages/chapter7/section7.2.md)
+  - [Section 7.3: Basic Inheritance](/book_pages/chapter7/section7.3.md)
+  - [Section 7.4: Constructors](/book_pages/chapter7/section7.4.md)
+  - [Section 7.5: Accessors](/book_pages/chapter7/section7.5.md)
+  - [Section 7.6: Transpilation](/book_pages/chapter7/section7.6.md)
+  - [Section 7.7: Monkey patch a function into an existing class](/book_pages/chapter7/section7.7.md)
+  
