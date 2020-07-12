@@ -59,4 +59,10 @@
   - [Section 7.5: Accessors](/book_pages/chapter7/section7.5.md)
   - [Section 7.6: Transpilation](/book_pages/chapter7/section7.6.md)
   - [Section 7.7: Monkey patch a function into an existing class](/book_pages/chapter7/section7.7.md)
+
+* Chapter 8: Class Decorator
+
+  - [Section 8.1: Generating metadata using a class decorator](/book_pages/chapter8/section8.1.md)
+  - [Section 8.2: Passing arguments to a class decorator](/book_pages/chapter8/section8.2.md)
+  - [Section 8.3: Basic class decorator](/book_pages/chapter8/section8.3.md)
   
